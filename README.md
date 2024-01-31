@@ -1,5 +1,7 @@
-![Welcome](./assets/welcome.gif)
+# 👋 Hello, friend!
 
-# Contact
+Welcome to my GitHub space. I am a front-end developer based in Warsaw, Poland.
 
-[![Contact Me on LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&color=333333)](https://www.linkedin.com/in/m-kupiec/)
+You can explore my latest projects in the [portfolio&nbsp;repo](https://github.com/m-kupiec/portfolio/)&nbsp;💼 I&nbsp;created for that purpose.
+
+If you'd like to get in touch, let's connect on [LinkedIn](https://www.linkedin.com/in/m-kupiec/).
