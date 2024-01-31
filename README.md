@@ -1,3 +1,5 @@
+![Mateusz Kupiec](./assets/banner.png)
+
 # 👋 Hello, friend!
 
 Welcome to my GitHub space. I am a front-end developer based in Warsaw, Poland.
