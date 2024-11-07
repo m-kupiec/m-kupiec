@@ -22,4 +22,4 @@ _Academic research management web application (JavaScript, Svelte)_
 - Ensured cross-device compatibility with responsive design for complex layouts
 - Conducted exploratory and UX testing for a user-friendly and bug-free experience
 
-[Read Docs](./projects/teurelis/README.md)
+[Docs](./projects/teurelis/README.md) / [Landing page](https://teurelis.com)
