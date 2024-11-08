@@ -60,3 +60,16 @@ _TypeScript and React project starter designed for scalable and maintainable web
 _Comprehensive Markdown-based notebooks covering advanced research on React, TypeScript, JavaScript, and more_
 
 [Repository](https://github.com/m-kupiec/compendia)
+
+### Teurelis Landing Page
+
+2023.12
+
+_Landing page for an academic research management software_
+
+- Created an engaging design with gently animated backgrounds
+- Optimized for cross-device compatibility and responsive design
+- Implemented form processing using a BaaS solution
+- Crafted targeted marketing messages to attract intended users
+
+[Landing page](https://teurelis.com)
