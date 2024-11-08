@@ -4,7 +4,7 @@ I'm a software engineer with over 14 years of experience in tech, project coordi
 
 Feel free to connect on [LinkedIn](https://www.linkedin.com/in/m-kupiec/) — I'd love to chat!
 
-## Select Projects
+## Projects
 
 ### Teurelis
 
