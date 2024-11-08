@@ -38,7 +38,7 @@ _Web application (TypeScript, React) using the Spotify Web API for music library
 - Maintained type safety and code quality with TypeScript, ESLint, and Prettier
 - Employed Tailwind CSS for streamlined and maintainable styling
 
-[Project Board](https://github.com/users/m-kupiec/projects/3) / [Repository](https://github.com/m-kupiec/music-app)
+[Project board](https://github.com/users/m-kupiec/projects/3) / [Repository](https://github.com/m-kupiec/music-app)
 
 ### Web App Project Starter
 
