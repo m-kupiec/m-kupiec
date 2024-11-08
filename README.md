@@ -73,3 +73,17 @@ _Landing page for an academic research management software_
 - Crafted targeted marketing messages to attract intended users
 
 [Landing page](https://teurelis.com)
+
+### Fractile
+
+2023.06
+
+_Landing page for an AI agent application_
+
+- Created a clean, minimalist design with parallax scrolling and animated text
+- Ensured cross-device compatibility with responsive design
+- Used semantic HTML for accessibility and SEO
+- Implemented form processing using a BaaS solution
+- Synthesized team input into cohesive marketing messaging
+
+[Landing page](https://fractile.io)
