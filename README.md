@@ -32,7 +32,7 @@ _Web application (TypeScript, React) using the Spotify Web API for music library
 
 - Managed project requirements and acceptance criteria with GitHub Projects, Issues, and PRs
 - Applied TDD methodology using Vitest and Testing Library for reliable code
-- Integrated the Authorization Code with PKCE flow to handle Spotify API authentication
+- Implemented OAuth 2.0 Authorization Code with PKCE to securely handle Spotify API authentication
 - Used Web Crypto, Web Storage, URL, and Fetch APIs to facilitate server communication
 - Utilized React hooks to manage state, refs, and data fetching effectively
 - Maintained type safety and code quality with TypeScript, ESLint, and Prettier
