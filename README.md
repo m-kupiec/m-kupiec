@@ -39,3 +39,16 @@ _Web application (TypeScript, React) using the Spotify Web API for music library
 - Employed Tailwind CSS for streamlined and maintainable styling
 
 [Project Board](https://github.com/users/m-kupiec/projects/3) / [Repository](https://github.com/m-kupiec/music-app)
+
+### Web App Project Starter
+
+2024.09 – Present
+
+_TypeScript and React project starter designed for scalable and maintainable web app development_
+
+- Configured static analysis with TypeScript, ESLint, and Prettier
+- Implemented testing suite with Vitest, Testing Library, and Mock Service Worker
+- Integrated Tailwind CSS for streamlined styling
+- Set up an efficient build process with Vite and PostCSS
+
+[Repository](https://github.com/m-kupiec/starter-react-ts-tailwind)
