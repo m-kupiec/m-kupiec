@@ -72,7 +72,7 @@ _Landing page for an academic research management software_
 - Implemented form processing using a BaaS solution
 - Crafted targeted marketing messages to attract intended users
 
-[Landing page](https://teurelis.com)
+[Live view](https://teurelis.com)
 
 ### Fractile
 
@@ -86,4 +86,4 @@ _Landing page for an AI agent application_
 - Implemented form processing using a BaaS solution
 - Synthesized team input into cohesive marketing messaging
 
-[Landing page](https://fractile.io)
+[Live view](https://fractile.io)
