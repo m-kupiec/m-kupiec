@@ -8,7 +8,7 @@ Feel free to connect on [LinkedIn](https://www.linkedin.com/in/m-kupiec/) — I'
 
 ### Teurelis
 
-2021.03 - Present
+2021.03 – Present
 
 _Academic research management web application (JavaScript, Svelte)_
 
@@ -26,7 +26,7 @@ _Academic research management web application (JavaScript, Svelte)_
 
 ### Spotify Client
 
-2024.09 - Present
+2024.09 – Present
 
 _Web application (TypeScript, React) using the Spotify Web API for music library management_
 
