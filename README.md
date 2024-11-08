@@ -52,3 +52,11 @@ _TypeScript and React project starter designed for scalable and maintainable web
 - Set up an efficient build process with Vite and PostCSS
 
 [Repository](https://github.com/m-kupiec/starter-react-ts-tailwind)
+
+### Front-End Compendia
+
+2024.02 – Present
+
+_Comprehensive Markdown-based notebooks covering advanced research on React, TypeScript, JavaScript, and more_
+
+[Repository](https://github.com/m-kupiec/compendia)
