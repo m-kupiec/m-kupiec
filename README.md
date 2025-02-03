@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I'm a software engineer with over 14 years of experience in tech, project coordination, and business development. Recently, I've specialized in front-end development with tools like React and Svelte, creating scalable, maintainable applications.
+I'm a software engineer with over 14 years of experience in tech, project coordination, and business development.
 
 Feel free to connect on [LinkedIn](https://www.linkedin.com/in/m-kupiec/) — I'd love to chat!
 
